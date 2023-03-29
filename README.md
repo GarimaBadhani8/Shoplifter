@@ -1,2 +1,2 @@
 # Shoplifter
-An online Shopping portal Frontend Website 
+An online Shopping portal (frontend project)
